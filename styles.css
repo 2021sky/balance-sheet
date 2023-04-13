@@ -1,0 +1,191 @@
+body {padding:10px;}
+
+
+main {border: 3px solid rgb(174, 170, 170);
+}
+
+
+#assets {padding-top:30px;}
+
+#word, #assets, #text, #liabi, #net {text-indent:  20px;}
+
+#assets, #liabi, #net {color: blueviolet;
+font-size: x-large;
+margin-bottom: 30px;}
+
+
+header {position:fixed;
+background-color: black;
+width:95.7%;
+
+}
+
+header #year {
+color: white;text-indent:0px;
+position: relative;
+left: 108%;
+padding-right:106px;
+}
+
+.ca{background-color:lightblue;
+width: 100%;
+margin-top: 2%;}
+
+#sh {text-indent: -82%;}
+
+#cash {text-indent:-16px;position: relative;
+left: 3%;
+}
+
+
+.ch {background-color:lightblue;
+width: 100%;
+}
+    
+#ck {text-indent: -74%;}
+    
+#check {text-indent:-3px;position: relative;
+left: 2%;
+}
+
+
+.sa {background-color:lightblue;
+width: 100%;
+}
+        
+#gs {text-indent: -77%;}
+        
+#save {text-indent:-19px;position: relative;
+left: 2.8%;
+}
+
+
+.to {border-bottom: 3px solid black;
+width:95%;
+margin-left:10px;
+margin-right:10px;
+}
+            
+#al {text-indent: -85%;}
+            
+#total {text-indent:-25px;position: relative;
+left: 7%;
+}
+
+
+.line {border-bottom: 3px solid black;
+width:95%;
+padding-top:5px;
+margin-left:10px;
+margin-right:10px;
+}
+
+
+.lo {background-color: lightblue;
+width:100%;
+padding-top: -40%;
+}
+                
+#ns{text-indent:-85%;}
+                
+#loan
+{text-indent: -27px;
+position:relative;
+left: -11%;
+}
+
+#loans{position:relative;
+left: -4%;
+text-indent:-20px;
+}
+
+
+.ex {background-color: lightblue;
+width:100%;
+}
+                
+#es{text-indent:-74%;}
+                
+#expense
+{text-indent:-14px;
+position:relative;
+right: -2%;
+}
+
+
+.cr {background-color: lightblue;
+width:100%;
+}
+                
+#it{text-indent:-80%;}
+                
+#credit
+{text-indent:-12px;
+position:relative;
+right: -2%;
+}
+ 
+
+.tot 
+{border-bottom: 3px solid black;
+width: 95%;
+margin-left:10px;
+margin-right:10px;
+}
+
+.tot:hover {background-color: lightblue;
+width: 95%;
+}
+                
+#tal{text-indent:-86%;}
+                
+#Total
+{text-indent:-24px;
+position:relative;
+right: -7%;
+}
+
+
+.too 
+{border-bottom: 3px solid black;
+width: 95%;
+margin-left:10px;
+margin-right:10px;
+}
+
+.too:hover {background-color: lightblue;
+width: 95%;
+}
+                
+#taa{text-indent:-84%;}
+                
+#totals
+{text-indent:-24px;
+position:relative;
+right: -6%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
