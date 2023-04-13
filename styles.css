@@ -17,11 +17,12 @@ margin-bottom: 30px;}
 header {position:fixed;
 background-color: black;
 width:95.7%;
+color: white;
 text-decoration: none;
 }
 
 header #year {
-color: white;text-indent:0px;
+text-indent:0px;
 position: fixed;
 left: 108%;
 padding-right:106px;
