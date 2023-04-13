@@ -14,16 +14,13 @@ font-size: x-large;
 margin-bottom: 30px;}
 
 
-header {position:fixed;
+.ye {position:fixed;
 background: black;
 width:95.7%;
-color: white;
 }
 
-header #year {
+#year {
 color:white;
-text-decoration:none;
-display:none;
 text-indent:0px;
 left: 108%;
 padding-right:106px;
