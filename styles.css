@@ -15,16 +15,17 @@ margin-bottom: 30px;}
 
 
 header {position:fixed;
-background-color: black;
+background: black;
 width:95.7%;
 color: white;
-text-decoration:white;
-
+top:0;
 }
 
 header #year {
+color:white;
+text-decoration: none;
+display:inline-block;
 text-indent:0px;
-position: fixed;
 left: 108%;
 padding-right:106px;
 }
