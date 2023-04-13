@@ -14,13 +14,12 @@ font-size: x-large;
 margin-bottom: 30px;}
 
 
-.ye {position:fixed;
+.ye {position:relative;
 background: black;color:white;
 width:95.7%;
 }
 
 #year {
-
 text-indent:0px;
 left: 108%;
 padding-right:106px;
