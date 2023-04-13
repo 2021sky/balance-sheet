@@ -19,6 +19,7 @@ background-color: black;
 width:95.7%;
 color: white;
 text-decoration: none;
+display: inline-block;
 }
 
 header #year {
